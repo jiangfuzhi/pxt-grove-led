@@ -8,7 +8,7 @@
     "files": [
         "README.md",
         "main.ts",
-        "_locales/zh/zh_strings.json"
+        "_locales/zh/light_strings.json"
     ],
     "testFiles": [
         "test.ts"
